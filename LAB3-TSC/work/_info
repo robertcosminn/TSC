@@ -1,0 +1,160 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Cosmin/Desktop/lab2
+vinstr_register
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 DXx4 work 18 instr_register_pkg 0 22 WN=4N^J_bZjQ<0_On:oi?2
+Z3 !s110 1678186719
+!i10b 1
+!s100 dB^k@BKhNZTOZmVmIGTYY2
+IE1NHEWfFNWh8L]L>;VngW3
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+!s105 instr_register_sv_unit
+S1
+R0
+Z5 w1678184593
+8C:/Users/Cosmin/Desktop/lab2/lab_dut/instr_register.sv
+FC:/Users/Cosmin/Desktop/lab2/lab_dut/instr_register.sv
+L0 9
+Z6 OW;L;10.5c;63
+r1
+!s85 0
+31
+Z7 !s108 1678186719.000000
+!s107 C:/Users/Cosmin/Desktop/lab2/lab_dut/instr_register.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/Cosmin/Desktop/lab2/lab_dut/instr_register.sv|
+!s101 -O0
+!i113 1
+Z8 o-work work -L mtiAvm -L mtiOvm -L mtiUPF -O0
+Z9 tCvgOpt 0
+Xinstr_register_pkg
+R1
+R3
+!i10b 1
+!s100 [7MWzRQElN=K:L=c[d:9C0
+IWN=4N^J_bZjQ<0_On:oi?2
+VWN=4N^J_bZjQ<0_On:oi?2
+S1
+R0
+R5
+8C:/Users/Cosmin/Desktop/lab2/lab_dut/instr_register_pkg.sv
+FC:/Users/Cosmin/Desktop/lab2/lab_dut/instr_register_pkg.sv
+L0 5
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/Cosmin/Desktop/lab2/lab_dut/instr_register_pkg.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/Cosmin/Desktop/lab2/lab_dut/instr_register_pkg.sv|
+!s101 -O0
+!i113 1
+R8
+R9
+vinstr_register_test
+R1
+R2
+!s110 1678186735
+!i10b 1
+!s100 @N=XOV`;[WWiI<;VY_SjA2
+IG44@fKc9zI?gkQYHK@?`30
+R4
+!s105 instr_register_test_sv_unit
+S1
+R0
+Z10 w1678184594
+8C:/Users/Cosmin/Desktop/lab2/lab01_testbench-interface/instr_register_test.sv
+FC:/Users/Cosmin/Desktop/lab2/lab01_testbench-interface/instr_register_test.sv
+L0 8
+R6
+r1
+!s85 0
+31
+!s108 1678186735.000000
+!s107 C:/Users/Cosmin/Desktop/lab2/lab01_testbench-interface/instr_register_test.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/Cosmin/Desktop/lab2/lab01_testbench-interface/instr_register_test.sv|
+!s101 -O0
+!i113 1
+R8
+R9
+Ytb_ifc
+R1
+R2
+!s110 1678186724
+!i10b 1
+!s100 9W>AVcHhBXii<Bfl@Xo5O2
+IckV5PNic_3]L]@mlQX9KE3
+R4
+!s105 tb_ifc_sv_unit
+S1
+R0
+R10
+8C:/Users/Cosmin/Desktop/lab2/lab01_testbench-interface/tb_ifc.sv
+FC:/Users/Cosmin/Desktop/lab2/lab01_testbench-interface/tb_ifc.sv
+L0 5
+R6
+r1
+!s85 0
+31
+!s108 1678186724.000000
+!s107 C:/Users/Cosmin/Desktop/lab2/lab01_testbench-interface/tb_ifc.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/Cosmin/Desktop/lab2/lab01_testbench-interface/tb_ifc.sv|
+!s101 -O0
+!i113 1
+R8
+R9
+vtest
+!s110 1678186713
+!i10b 1
+!s100 ZObh@Xc8TVS[ETnRI:z9`2
+Ih]?_L8Qk]d[=8n9X0?dC12
+R4
+R0
+R10
+8C:/Users/Cosmin/Desktop/lab2/test/test.v
+FC:/Users/Cosmin/Desktop/lab2/test/test.v
+L0 7
+R6
+r1
+!s85 0
+31
+!s108 1678186713.000000
+!s107 C:/Users/Cosmin/Desktop/lab2/test/test.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Cosmin/Desktop/lab2/test/test.v|
+!s101 -O0
+!i113 1
+R8
+R9
+vtop
+R1
+R2
+!s110 1678186728
+!i10b 1
+!s100 Pg=M]M2k<1Dk;?TFRVBCm1
+IKXMO00ShYTGbYTeVGWz`91
+R4
+!s105 top_sv_unit
+S1
+R0
+R10
+8C:/Users/Cosmin/Desktop/lab2/lab01_testbench-interface/top.sv
+FC:/Users/Cosmin/Desktop/lab2/lab01_testbench-interface/top.sv
+L0 5
+R6
+r1
+!s85 0
+31
+!s108 1678186728.000000
+!s107 C:/Users/Cosmin/Desktop/lab2/lab01_testbench-interface/top.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/Cosmin/Desktop/lab2/lab01_testbench-interface/top.sv|
+!s101 -O0
+!i113 1
+R8
+R9
