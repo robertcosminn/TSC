@@ -1,0 +1,14 @@
+in fisierul inst_register_test :
+write pointer -- random(0-31)
+read pointer  -- random(0-31)
+-mai adaugam un parametru care sa spuna RND_CASE
+- daca ia val 0 -- inc,incr ( read si write sunt incrementale ++)
+- daca ia val 1 --inc,rand ( write inc, read rand)
+- daca ia val 2 --rand,inc
+- daca ia val 3 -- rand, rand
+sunt valori incrementale acm
+
+-o variabila noua de NR_OF_TRANS
+la linia 37 si 42 inlocuim cu 5,7,11
+
+seed- parametru optional ce determina secv de nr random generate

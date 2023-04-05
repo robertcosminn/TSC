@@ -1,0 +1,5 @@
+test- instr_register_test.sv
+TOP - top.sv
+DUT - instr_reg.sv
+
+complement fata de 2 - negi nr + 1 (nr negativ)
